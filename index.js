@@ -15,7 +15,7 @@ const info = require("./lib/info.js");
 //
 const BotName = 'Furukawa'; // Nama Bot Whatsapplu
 const instagramlu = 'https://instagram.com/furukawadensetsu'; // Nama Instagramlu 
-const whatsapplu = '08135603528'; // Nomor whatsapplu 
+const whatsapplu = '081315603528'; // Nomor whatsapplu 
 const kapanbotaktif = 'Liat Desk'; // Kapan bot lu aktif
 const grupch1 = 'https://chat.whatsapp.com/KZRQ9GQNBqfHKSbnFlvr64'; // OFFICIAL GRUP LU 1
 const grupch2 = 'CUMAN PUNYA 1 XIXI'; // OFFICIAL GRUP LU 2
