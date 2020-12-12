@@ -38,7 +38,7 @@
 6. apt update
 7. apt upgrade
 8. git clone https://github.com/Kardun2203/kardun21
-9. cd bot-whatsapp
+9.  cd kardun21
 10. ls
 11. npm i -g cwebp
 12. npm i -g ytdl
@@ -68,7 +68,7 @@ TINGGAL SCAN DEH XIXIXI 😁
                      AND MORE >//<
 
 # DONASI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
-* [SAWERIA](https://saweria.co/alvarobherman)
+* GoPay : 081315603528
 
 # NOTE <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="29px">
 * SCRIPT INI HANYA BISA DIGUNAKAN DI TERMUX
