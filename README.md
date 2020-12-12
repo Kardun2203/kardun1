@@ -37,7 +37,7 @@
 5. pkg install wget
 6. apt update
 7. apt upgrade
-8. git clone https://github.com/alvarobherman/bot-whatsapp
+8. git clone https://github.com/Kardun2203/kardun21
 9. cd bot-whatsapp
 10. ls
 11. npm i -g cwebp
