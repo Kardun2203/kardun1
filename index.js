@@ -13,11 +13,11 @@ const menu = require("./lib/menu.js");
 const donate = require("./lib/donate.js");
 const info = require("./lib/info.js");
 //
-const BotName = 'ALVBOT'; // Nama Bot Whatsapplu
-const instagramlu = 'https://instagram.com/alvarobhermann_'; // Nama Instagramlu 
-const whatsapplu = '0812-8832-6069'; // Nomor whatsapplu 
+const BotName = 'FURUKAWA'; // Nama Bot Whatsapplu
+const instagramlu = 'https://instagram.com/furukawadensetsu'; // Nama Instagramlu 
+const whatsapplu = '0813-1560-3528'; // Nomor whatsapplu 
 const kapanbotaktif = 'Liat Desk'; // Kapan bot lu aktif
-const grupch1 = 'https://chat.whatsapp.com/FWulFRbBNUtAfGC5w9pCs9'; // OFFICIAL GRUP LU 1
+const grupch1 = 'https://chat.whatsapp.com/KZRQ9GQNBqfHKSbnFlvr64'; // OFFICIAL GRUP LU 1
 const grupch2 = 'CUMAN PUNYA 1 XIXI'; // OFFICIAL GRUP LU 2
 //
 const
