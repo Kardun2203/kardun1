@@ -6,7 +6,7 @@
 <br>
 </p>
 <p align="center">
-<a href="https://github.com/Kardun2203"><img title="Author" src="https://img.shields.io/badge/AUTHOR-Kardun%20BHERMAN-green.svg?style=for-the-badge&logo=github%27"></a>
+<a href="https://github.com/Kardun2203"><img title="Author" src="https://img.shields.io/badge/AUTHOR-Kardun%202203-green.svg?style=for-the-badge&logo=github%27"></a>
 </p>
 <p align="center">
 <a href="https://github.com/Kardun2203/kardun21/followers"><img title="Followers" src="https://img.shields.io/github/followers/alvarobherman?color=blue&style=flat-square"></a>
