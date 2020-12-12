@@ -79,8 +79,8 @@ TINGGAL SCAN DEH XIXIXI 😁
 * [BlackD14](https://github.com/BlackD14/termux-whatsapp-bot)
 
 # SOSMED ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="40px">
-* Youtube : Alvaro Bherman
-* Instagram : Alvaro Bherman
+* WhatsApp  : 081315603528
+* Instagram : furukawadensetsu
 
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif" width="1000px">
 
